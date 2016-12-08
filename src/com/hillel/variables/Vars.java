@@ -21,5 +21,7 @@ public class Vars {
     double c = a / b;
 
     System.out.println(c);
+
+    Sytem.out.println("Hello World");
   }
 }
